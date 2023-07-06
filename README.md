@@ -12,3 +12,6 @@
 
 ## **nota**
 El tiempo que tomo para realizar esta prueba fue de 33min
+  * Migraciones - 17min.
+  * Modelos - 9min.
+  * Seeders - 7min.
